@@ -1,7 +1,7 @@
 # 🐾 PawGram
 ### Instagram Fork Optimized for Legacy & Modern Android Devices
 
-**PawGram** is a performance-focused, community-driven fork of Instagram, built to deliver a smoother and more stable experience—especially on devices no longer supported by official releases.
+**PawGram** is a performance-focused, community-driven fork of Instagram Alpha, built to deliver a smoother and more stable experience—especially on devices no longer supported by official releases.
 
 Developed with 🐾 by **PawDevs**.
 
@@ -48,7 +48,7 @@ The original GitHub releases repository for PawGram is currently **disabled**.
 As a result, **all PawGram app releases are now distributed exclusively through our official Telegram community**.
 
 ### 👉 Official Telegram Community
-📢 **https://t.me/PawDevs**
+📢 **https://t.me/pawgramapp**
 
 All latest builds, updates, announcements, and download links are shared there.
 
