@@ -1,7 +1,7 @@
 # PawGram
 
 <p align="center">
-  <a href="https://t.me/PawDevs">
+  <a href="https://t.me/pawgramapp">
     <img src="https://img.shields.io/badge/Telegram-Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://pawgram.tiiny.site">
@@ -60,7 +60,7 @@ With ongoing development, PawGram now supports both 32-bit and 64-bit architectu
 
 ## 🌐 Community & Links
 
-* 💬 **Telegram Community:** https://t.me/PawDevs  
+* 💬 **Telegram Community:** https://t.me/pawgramapp 
 * 🌍 **Official Website:** https://pawgram.tiiny.site  
 
 All updates, announcements, and releases are shared via Telegram.
