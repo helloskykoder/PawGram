@@ -1,117 +1,104 @@
-# 🐾 PawGram
+# PawGram
+
+<p align="center">
+  <a href="https://t.me/PawDevs">
+    <img src="https://img.shields.io/badge/Telegram-Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://pawgram.tiiny.site">
+    <img src="https://img.shields.io/badge/Website-PawGram-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ### Instagram Fork Optimized for Legacy & Modern Android Devices
 
-**PawGram** is a performance-focused, community-driven fork of Instagram Alpha, built to deliver a smoother and more stable experience—especially on devices no longer supported by official releases.
+PawGram is a performance-focused, community-driven fork of Instagram Alpha, built to deliver a smoother and more stable experience — especially on devices no longer supported by official releases.
 
-Developed with 🐾 by **PawDevs**.
+Developed by **PawDevs**.
 
 ---
 
-## 🎯 Overview
+## 📌 Overview
 
-PawGram was originally created to revive Instagram usability on **legacy 32-bit Android devices**.  
-With ongoing development, PawGram has expanded to support **both 32-bit and 64-bit architectures**, ensuring compatibility across a wide range of devices.
+PawGram was originally created to revive Instagram usability on legacy 32-bit Android devices.
 
-The project focuses on:
+With ongoing development, PawGram now supports both 32-bit and 64-bit architectures, ensuring compatibility across a wide range of devices.
 
-- Stability and performance improvements  
-- Lightweight and clean user experience  
-- Community-driven development  
-- Long-term support for unsupported devices  
+### Project Goals
+
+* Stability and performance improvements  
+* Lightweight and clean user experience  
+* Community-driven development  
+* Long-term support for unsupported devices  
 
 ---
 
 ## ✨ Key Features
 
-- Optimized performance for low-resource devices  
-- Improved stability and smoother scrolling  
-- Clean and lightweight UI  
-- Reduced background overhead  
-- Compatible with both **32-bit and 64-bit** Android devices  
+* **Pre-Patched iOS Emoji Support** – Native iOS-style emojis built-in  
+* **Optimized Performance** for low-resource devices  
+* **Improved Stability** and smoother scrolling  
+* **Clean & Lightweight UI**  
+* **32-bit and 64-bit Android Support**
 
 ---
 
-## 🧩 Architecture Support
+## 🏗️ Architecture Support
 
-| Architecture | Support |
-|-------------|---------|
-| 32-bit (ARMv7) | ✅ Supported |
-| 64-bit (ARM64) | ✅ Supported |
+* ✅ ARMv7 (32-bit)  
+* ✅ ARM64 (64-bit)
 
 ---
 
-## 📥 App Releases & Downloads
+## 🚀 Installation
 
-⚠ **Important Notice**
-
-The original GitHub releases repository for PawGram is currently **disabled**.  
-As a result, **all PawGram app releases are now distributed exclusively through our official Telegram community**.
-
-### 👉 Official Telegram Community
-📢 **https://t.me/pawgramapp**
-
-All latest builds, updates, announcements, and download links are shared there.
+1. Download the latest PawGram APK from the **official Telegram community**
+2. Enable **Install Unknown Apps** in Android settings
+3. Install the APK
+4. Log in and enjoy PawGram with built-in iOS emojis
 
 ---
 
-## 🛠 Installation
+## 🌐 Community & Links
 
-1. Download the latest **PawGram APK** from the official Telegram channel  
-2. Enable **Install Unknown Apps** in Android settings  
-3. Install the application  
-4. Log in and enjoy the optimized PawGram experience  
+* 💬 **Telegram Community:** https://t.me/PawDevs  
+* 🌍 **Official Website:** https://pawgram.tiiny.site  
+
+All updates, announcements, and releases are shared via Telegram.
 
 ---
 
 ## 🐞 Bug Reports & Feedback
 
-You can share bug reports, feedback, and suggestions through:
+Please include the following when reporting issues:
 
-- GitHub Issues (if enabled)  
-- Official Telegram Community  
-
-Please include:
-- Device model  
-- Android version  
-- App version  
-- Steps to reproduce the issue  
+* Device model  
+* Android version  
+* PawGram version  
+* Steps to reproduce  
 
 ---
 
 ## 🤝 Contributing
 
-Community contributions are welcome and appreciated:
+You can help PawGram grow by:
 
-- Testing on different devices  
-- Bug reporting  
-- Feature suggestions  
-- Documentation improvements  
-
----
-
-## 📡 Community & Updates
-
-Stay connected with PawDevs:
-
-- 📢 **Telegram (Official):** https://t.me/PawDevs  
-
-All announcements, updates, and releases are posted there.
+* Testing on different devices  
+* Reporting bugs  
+* Suggesting features  
+* Improving documentation  
 
 ---
 
-## ⚠ Disclaimer
+## ⚠️ Disclaimer
 
-PawGram is an **independent third-party modification project** and is **not affiliated with Instagram or Meta Platforms, Inc.**  
-
-Users are responsible for complying with Instagram’s Terms of Service and applicable laws.
-
----
-
-## 💙 Credits
-
-Developed with 🐾 by **PawDevs**  
-Thanks to all community members, testers, and contributors who keep PawGram alive.
+PawGram is an **independent third-party project** and is **not affiliated with Instagram or Meta Platforms, Inc.**  
+Use at your own responsibility and follow Instagram’s Terms of Service.
 
 ---
 
-**PawGram — Keeping legacy devices connected.**
+## 🙏 Credits
+
+Developed by **PawDevs**  
+Thanks to all contributors and community members ❤️
+
+**PawGram — Keeping legacy devices alive, beautifully. 🐾**
