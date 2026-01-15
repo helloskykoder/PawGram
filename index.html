@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PawGram</title>
+
+    <!-- FONT -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --cyan: #00ffff;
+            --dark: #070b1a;
+            --glass: rgba(0, 255, 255, 0.12);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Orbitron', sans-serif;
+            background: radial-gradient(circle at top, #0c1b3a, var(--dark));
+            color: #ffffff;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            padding: 3rem 1.5rem;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            letter-spacing: 4px;
+            margin-bottom: 0.5rem;
+            color: #ffffff;
+            text-shadow: 0 0 15px var(--cyan), 0 0 35px var(--cyan);
+        }
+
+        .tagline {
+            font-size: 1.1rem;
+            opacity: 0.85;
+            margin-bottom: 2.5rem;
+        }
+
+        p {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin-bottom: 1.8rem;
+            color: #f5ffff;
+        }
+
+        .highlight {
+            color: #ffffff;
+            text-shadow: 0 0 10px var(--cyan);
+            font-weight: 600;
+        }
+
+        /* FEATURES */
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 1.8rem;
+            margin: 3rem 0;
+        }
+
+        .card {
+            background: var(--glass);
+            border: 1.5px solid var(--cyan);
+            border-radius: 14px;
+            padding: 1.8rem;
+            transition: all 0.35s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .card:hover {
+            transform: translateY(-8px) scale(1.03);
+            box-shadow: 0 0 25px var(--cyan);
+        }
+
+        .card h3 {
+            margin-top: 0;
+            margin-bottom: 0.6rem;
+            color: #ffffff;
+            text-shadow: 0 0 8px var(--cyan);
+        }
+
+        .card p {
+            color: #e8ffff;
+        }
+
+        /* BUTTONS */
+        .buttons {
+            margin-top: 3rem;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1.2rem;
+        }
+
+        .btn {
+            padding: 0.9rem 2.2rem;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: 700;
+            border-radius: 50px;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary {
+            background: var(--cyan);
+            color: #000;
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 0 25px var(--cyan);
+        }
+
+        .btn-outline {
+            border: 2px solid var(--cyan);
+            color: #ffffff;
+            background: transparent;
+        }
+
+        .btn-outline:hover {
+            background: var(--cyan);
+            color: #000;
+            box-shadow: 0 0 25px var(--cyan);
+        }
+
+        footer {
+            margin-top: 4rem;
+            font-size: 0.85rem;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>PawGram</h1>
+        <div class="tagline">Performance-Focused • Lightweight • Community-Driven</div>
+
+        <p>
+            <span class="highlight">PawGram</span> is an independent Instagram Alpha fork built to deliver
+            smooth performance, improved compatibility, and a reliable experience across a wide range
+            of Android devices, including legacy hardware.
+        </p>
+
+        <div class="features">
+            <div class="card">
+                <h3>⚡ Optimized Performance</h3>
+                <p>Carefully tuned for faster load times and stable performance on low-end and older devices.</p>
+            </div>
+
+            <div class="card">
+                <h3>📱 32-bit & 64-bit Support</h3>
+                <p>Designed to work across both legacy and modern Android architectures.</p>
+            </div>
+
+            <div class="card">
+                <h3>🧠 Community Driven</h3>
+                <p>Shaped by user feedback and community contributions to ensure continuous improvement.</p>
+            </div>
+
+            <div class="card">
+                <h3>🎨 Clean & Familiar UI</h3>
+                <p>Maintains a simple, familiar interface while focusing on usability and stability.</p>
+            </div>
+        </div>
+
+        <p>
+            PawGram is <strong>not affiliated</strong> with Instagram or Meta Platforms, Inc.
+            Users are responsible for complying with Instagram’s Terms of Service.
+        </p>
+
+        <div class="buttons">
+            <a href="https://github.com/helloskykoder/PawGram" target="_blank" class="btn btn-primary">
+                GitHub Repository
+            </a>
+
+            <a href="https://t.me/PawDevs" target="_blank" class="btn btn-outline">
+                Telegram Channel
+            </a>
+
+            <a href="https://t.me/pawgramapp" target="_blank" class="btn btn-outline">
+                Telegram Community
+            </a>
+        </div>
+
+        <footer>
+            © PawGram Project • Built with 🐾 by PawDevs
+        </footer>
+
+    </div>
+
+</body>
+</html>
